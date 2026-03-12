@@ -115,7 +115,8 @@ if st.session_state.comecar:
         st.markdown(f"""
         <div class="mensagem-texto">
         Feliz Aniversário, meu amor! 🎂
-        Oi, João Pedro! Hoje o dia é todo seu, e eu não poderia deixar passar sem te dizer o quanto sou grata por esses 7 meses ao seu lado. 
+        
+        Oi, meu princípe lindo! Hoje o dia é todo seu, e eu não poderia deixar passar sem te dizer o quanto sou grata por esses 7 meses ao seu lado. 
         Parece que foi ontem que você apareceu na minha vida, no momento em que eu menos esperava, trazendo exatamente tudo o que eu sempre admirei em alguém.
         
         Nesse tempo, descobri que te amar é a coisa mais fácil e gostosa do mundo. 
@@ -133,11 +134,13 @@ if st.session_state.comecar:
         Queria muito estar aí fisicamente agora para te dar um abraço apertado, mas sinta meu coração batendo pertinho do seu. 
         Hoje o dia é seu, mas o presente é meu por ter você na minha vida. 
         Você é carinhoso, inteligente, engraçado e o motivo da minha maior felicidade.
+        
         Que seu dia seja tão maravilhoso quanto você. 
         Eu te amo mais que ontem e menos que amanhã. 
         Obrigada por esses 7 meses e por me deixar viver sentimentos tão lindos ao seu lado.
         
         Com todo o meu amor,
+        
         Sua namorada que te ama demais! ❤️</span>
         </div>
         """, unsafe_allow_html=True)
